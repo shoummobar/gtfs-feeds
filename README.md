@@ -16,7 +16,7 @@ The feeds are maintained with a focus on accuracy, consistency, data quality and
 | Autoservizi Gelmi | [gtfs_gelmi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gelmi.zip) |
 | Autoservizi La Valle | [gtfs_lavalle.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lavalle.zip) |
 | CTB - Cooperativa Trasporti Bormio | [gtfs_ctb.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_ctb.zip) |
-| FNM Autoservizi | [gtfs_fnma.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_fnma.zip) |
+| FNM Autoservizi | [GTFS_FNMA.zip](https://shoummobar.github.io/gtfs-feeds/GTFS_FNMA.zip) |
 | Gianolini Servizi e Trasporti | [gtfs_gianolini.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gianolini.zip) |
 | LineeLecco | [gtfs_lineelecco.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lineelecco.zip) |
 | Autotrasporti Rainoldi & C. | [gtfs_rainoldi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_rainoldi.zip) |
