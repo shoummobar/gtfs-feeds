@@ -13,11 +13,11 @@ The feeds are maintained with a focus on accuracy, consistency, data quality and
 | Autonoleggi Bonomi | [gtfs_bonomi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_bonomi.zip) |
 | Autoservizi Gelmi | [gtfs_gelmi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gelmi.zip) |
 | Autoservizi La Valle | [gtfs_lavalle.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lavalle.zip) |
+| Autotrasporti Rainoldi & C. | [gtfs_rainoldi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_rainoldi.zip) |
 | CTB – Cooperativa Trasporti Bormio | [gtfs_ctb.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_ctb.zip) |
 | FNM Autoservizi | [gtfs_fnma.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_fnma.zip) |
 | Gianolini Servizi e Trasporti | [gtfs_gianolini.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gianolini.zip) |
 | LineeLecco | [gtfs_lineelecco.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lineelecco.zip) |
-| Autotrasporti Rainoldi & C. | [gtfs_rainoldi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_rainoldi.zip) |
 | SAV – Società Autoservizi Visinoni | [gtfs_sav.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sav.zip) |
 | STPS – Società Trasporti Pubblici di Sondrio | [gtfs_stps.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_stps.zip) |
 
