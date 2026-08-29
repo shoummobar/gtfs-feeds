@@ -1,10 +1,10 @@
 # GTFS Transit Feeds
 
-This repository hosts GTFS feeds for public transport operators in Lombardy, Italy.
+This repository hosts GTFS feeds for some public transport operators in Lombardy, Italy.
 
 The feeds are maintained with a focus on accuracy, consistency, data quality and up-to-date operational information, with particular attention to regional conventions and best practices for transit data.
 
-> **Initial list — subject to change. The GTFS feeds are currently being finalized and are expected to be available around the first week of September 2026.**
+> **Initial list - subject to change. The GTFS feeds are currently being finalized and are expected to be available around the first week of September 2026.**
 
 ## Available Feeds
 
