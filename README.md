@@ -1,63 +1,46 @@
 # GTFS Transit Feeds
 
-This repository hosts the latest GTFS feeds for a number of public transport operators in Lombardy, Italy.
+This repository hosts the latest GTFS feeds for public transport operators in Lombardy, Italy.
 
-The feeds are maintained with the goal of providing accurate, consistent and up-to-date transit data for integration with Apple Maps and other transit platforms.
+The feeds are maintained with a focus on accuracy, consistency, data quality and up-to-date operational information, with particular attention to regional conventions and best practices for transit data.
 
-## Operators
+## Available Feeds
 
-The repository currently includes feeds for:
+| Operator | GTFS Feed |
+|---|---|
+| Autolinee Sabba | [gtfs_sabba.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sabba.zip) |
+| Automobilistica Perego | [gtfs_perego.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_perego.zip) |
+| Autonoleggi Bonomi | [gtfs_bonomi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_bonomi.zip) |
+| Autoservizi Gelmi | [gtfs_gelmi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gelmi.zip) |
+| Autoservizi La Valle | [gtfs_lavalle.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lavalle.zip) |
+| CTB – Cooperativa Trasporti Bormio | [gtfs_ctb.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_ctb.zip) |
+| FNM Autoservizi | [gtfs_fnma.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_fnma.zip) |
+| Gianolini Servizi e Trasporti | [gtfs_gianolini.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gianolini.zip) |
+| LineeLecco | [gtfs_lineelecco.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lineelecco.zip) |
+| Autotrasporti Rainoldi & C. | [gtfs_rainoldi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_rainoldi.zip) |
+| SAV – Società Autoservizi Visinoni | [gtfs_sav.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sav.zip) |
+| STPS – Società Trasporti Pubblici di Sondrio | [gtfs_stps.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_stps.zip) |
 
-- Autolinee Sabba
-- Automobilistica Perego
-- Autonoleggi Bonomi
-- Autoservizi Gelmi
-- Autoservizi La Valle
-- CTB – Cooperativa Trasporti Bormio
-- FNM Autoservizi
-- Gianolini Servizi e Trasporti
-- LineeLecco
-- Autotrasporti Rainoldi & C.
-- SAV - Società Autoservizi Visinoni
-- STPS - Società Trasporti Pubblici di Sondrio
+> Feed URLs are intended to remain stable. Updated versions of the feeds will be published at the same URLs whenever new data becomes available.
 
-> This list may be updated as additional feeds are finalized and published.
+## Data Quality
 
-## Data quality
+The GTFS feeds are based on the latest available operational data and are carefully processed with quality and consistency in mind.
 
-The feeds are based on the latest available operational data and are carefully processed to ensure a high level of quality and consistency.
+They follow relevant regional stop naming conventions and GTFS best practices, and contain the necessary data required for a complete and reliable transit feed.
 
-They follow the relevant regional conventions and GTFS best practices, including:
-
-- Regional stop naming conventions
-- Consistent stop and route information
-- Complete and structured GTFS data
-- Accurate schedules and service information
-- Consistent identifiers and relationships between GTFS entities
-- Data cleaning and validation before publication
-
-The feeds are specifically prepared to provide clear and consistent transit information while avoiding unnecessary duplication, inconsistencies or clutter in the passenger-facing experience.
+Before publication, the data is carefully reviewed and cleaned to ensure accurate and consistent information while avoiding unnecessary duplication, inconsistencies or clutter in the passenger-facing experience.
 
 ## Updates
 
-The feeds are updated whenever new or revised operational data becomes available.
+Feeds are updated whenever new or revised operational data becomes available.
 
-The URLs to the feeds are intended to remain stable. Updates are published at the existing URLs, so consuming platforms can continue to use the same feed locations without requiring URL changes.
+The existing URLs will be retained when feeds are updated, allowing consuming platforms to continuously access the latest available version without requiring changes to their feed configuration.
 
-## Feed format
+## GTFS
 
-Each feed is provided as a standard GTFS ZIP archive containing the relevant GTFS text files.
-
-The feeds can be consumed by platforms and services supporting the [General Transit Feed Specification (GTFS)](https://gtfs.org/).
-
-## Purpose
-
-This repository provides a simple and reliable way of making the latest available transit data accessible to third-party platforms.
-
-The primary goal is to keep the data:
-
-**Accurate · Consistent · Current · Clean · Reliable**
+All feeds are provided as standard GTFS ZIP archives and are intended for use by platforms and services supporting the [General Transit Feed Specification (GTFS)](https://gtfs.org/).
 
 ---
 
-*Maintained with a focus on data quality and long-term stability.*
+**Accurate · Consistent · Current · Clean · Reliable**
