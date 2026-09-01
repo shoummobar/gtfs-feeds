@@ -66,6 +66,34 @@
         }
       ],
       "test": true
+    },
+    {
+      "id": "TRIP-CANCELLATION-FN164104-20260902",
+      "enabled": true,
+      "type": "TRIP_CANCELLATION",
+      "trip": {
+        "trip_id": "FN164104",
+        "start_date": "20260902"
+      },
+      "communication_period": {
+        "start": "2026-09-01T00:00:00+02:00",
+        "end": "2026-09-02T23:59:59+02:00"
+      },
+      "impact_period": {
+        "start": "2026-09-02T00:00:00+02:00",
+        "end": "2026-09-02T23:59:59+02:00"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "header": {
+        "it": "Corsa soppressa",
+        "en": "Trip cancelled"
+      },
+      "description": {
+        "it": "La corsa FN164104 del 2 settembre 2026 è soppressa.",
+        "en": "Trip FN164104 on 2 September 2026 is cancelled."
+      },
+      "url": null
     }
   ]
 }
