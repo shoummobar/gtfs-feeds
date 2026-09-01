@@ -1,6 +1,6 @@
 # GTFS Transit Feeds
 
-This repository hosts GTFS feeds for some public transport operators in Lombardy, Italy.
+This repository hosts GTFS feeds for public transport operators in Lombardy, Italy.
 
 The feeds are maintained with a focus on accuracy, consistency, data quality and up-to-date operational information, with particular attention to regional conventions and best practices for transit data.
 
@@ -8,20 +8,21 @@ The feeds are maintained with a focus on accuracy, consistency, data quality and
 
 ## Available Feeds
 
-| Operator | GTFS Feed |
-|---|---|
-| Autolinee Sabba | [gtfs_sabba.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sabba.zip) |
-| Automobilistica Perego | [gtfs_perego.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_perego.zip) |
-| Autonoleggi Bonomi | [gtfs_bonomi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_bonomi.zip) |
-| Autoservizi Gelmi | [gtfs_gelmi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gelmi.zip) |
-| Autoservizi La Valle | [gtfs_lavalle.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lavalle.zip) |
-| CTB - Cooperativa Trasporti Bormio | [gtfs_ctb.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_ctb.zip) |
-| FNM Autoservizi | [GTFS_FNMA.zip](https://shoummobar.github.io/gtfs-feeds/GTFS_FNMA.zip) |
-| Gianolini Servizi e Trasporti | [gtfs_gianolini.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gianolini.zip) |
-| LineeLecco | [gtfs_lineelecco.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lineelecco.zip) |
-| Autotrasporti Rainoldi & C. | [gtfs_rainoldi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_rainoldi.zip) |
-| SAV - Società Autoservizi Visinoni | [gtfs_sav.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sav.zip) |
-| STPS - Società Trasporti Pubblici di Sondrio | [gtfs_stps.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_stps.zip) |
+| Operator                                     | GTFS Feed                                                                          |
+| -------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Autolinee Sabba                              | [gtfs_sabba.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sabba.zip)           |
+| Automobilistica Perego                       | [gtfs_perego.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_perego.zip)         |
+| Autonoleggi Bonomi                           | [gtfs_bonomi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_bonomi.zip)         |
+| Autoservizi Gelmi                            | [gtfs_gelmi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gelmi.zip)           |
+| Autoservizi La Valle                         | [gtfs_lavalle.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lavalle.zip)       |
+| Autotrasporti Rainoldi & C.                  | [gtfs_rainoldi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_rainoldi.zip)     |
+| CTB - Cooperativa Trasporti Bormio           | [gtfs_ctb.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_ctb.zip)               |
+| FNM Autoservizi                              | [gtfs_fnma_bs.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_fnma_bs.zip)       |
+| Gianolini Servizi e Trasporti                | [gtfs_gianolini.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gianolini.zip)   |
+| LineeLecco                                   | [gtfs_lineelecco.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lineelecco.zip) |
+| SAI                                          | [gtfs_sai.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sai.zip)               |
+| SAV - Società Autoservizi Visinoni           | [gtfs_sav.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sav.zip)               |
+| STPS - Società Trasporti Pubblici di Sondrio | [gtfs_stps.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_stps.zip)             |
 
 > Feed URLs are intended to remain stable. Updated versions of the feeds will be published at the same URLs whenever new data becomes available.
 
