@@ -4,8 +4,6 @@ This repository hosts GTFS feeds for public transport operators in Lombardy, Ita
 
 The feeds are maintained with a focus on accuracy, consistency, data quality and up-to-date operational information, with particular attention to regional conventions and best practices for transit data.
 
-> **Initial list - subject to change. The GTFS feeds are currently being finalized and are expected to be available around the first week of September 2026.**
-
 ## Available Feeds
 
 | Operator                                     | GTFS Feed                                                                          |
@@ -17,10 +15,10 @@ The feeds are maintained with a focus on accuracy, consistency, data quality and
 | Autoservizi La Valle                         | [gtfs_lavalle.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lavalle.zip)       |
 | Autotrasporti Rainoldi & C.                  | [gtfs_rainoldi.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_rainoldi.zip)     |
 | CTB - Cooperativa Trasporti Bormio           | [gtfs_ctb.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_ctb.zip)               |
-| FNM Autoservizi Brescia                             | [gtfs_fnma_bs.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_fnma_bs.zip)       |
+| FNM Autoservizi Brescia                      | [gtfs_fnma_bs.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_fnma_bs.zip)       |
 | Gianolini Servizi e Trasporti                | [gtfs_gianolini.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_gianolini.zip)   |
 | LineeLecco                                   | [gtfs_lineelecco.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_lineelecco.zip) |
-| SAI - Società Autolinee Interprovinciali                                          | [gtfs_sai.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sai.zip)               |
+| SAI - Società Autolinee Interprovinciali     | [gtfs_sai.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sai.zip)               |
 | SAV - Società Autoservizi Visinoni           | [gtfs_sav.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sav.zip)               |
 | STPS - Società Trasporti Pubblici di Sondrio | [gtfs_stps.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_stps.zip)             |
 
@@ -34,6 +32,7 @@ They follow relevant regional stop naming conventions and GTFS best practices, a
 
 Before publication, the data is carefully reviewed and cleaned to ensure accurate and consistent information while avoiding unnecessary duplication, inconsistencies or clutter in the passenger-facing experience.
 
+> **Note regarding SAI - Società Autolinee Interprovinciali:** Although the data in this feed is up to date, the underlying data structure has not yet undergone the same level of structural revision and UI/UX refinement applied to the other feeds. As a result, some information in this particular feed may still appear somewhat cluttered or inconsistent from a passenger-facing perspective.
 ## Updates
 
 Feeds are updated whenever new or revised operational data becomes available.
