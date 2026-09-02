@@ -2,7 +2,7 @@
   "version": 1,
   "agencyName": "",
   "lastEditedBy": "Console Avvisi GTFS-RT",
-  "lastEditedAt": "2026-09-02T17:38:49.510Z",
+  "lastEditedAt": "2026-09-02T17:54:40.608Z",
   "alerts": [
     {
       "id": "al_mtkcvsyd_ak9f12",
@@ -12,7 +12,7 @@
         "it": "Modifica servizio e sospensione tratta Edolo - Sonico Rino"
       },
       "description": {
-        "it": "Si informa che a causa del crollo del ponte in località Sonico Rino provocato da avverse condizioni meteo, la linea LV056 è sospesa nel tratto tra Edolo e Sonico Rino.\n\nIl servizio rimane attivo esclusivamente nella tratta tra Malonno FS e Sonico Garda con i seguenti orari:\n\nPartenze da Malonno FS per Sonico Garda:\n06:50, 14:00, 18:15\n\nPartenze da Sonico Garda per Malonno FS:\n07:10, 14:20, 18:35"
+        "it": "Si informa che a causa del crollo del ponte in località Sonico Rino provocato da avverse condizioni meteo, la linea LV056 è sospesa nel tratto tra Edolo e Sonico Rino.\n\nIl servizio rimane attivo esclusivamente nella tratta tra Malonno FN e Sonico Garda con i seguenti orari:\n\nPartenze da Malonno FN per Sonico Garda:\n06:50, 14:00, 18:15\n\nPartenze da Sonico Garda per Malonno FN:\n07:10, 14:20, 18:35"
       },
       "url": {},
       "cause": "OTHER_CAUSE",
@@ -33,7 +33,7 @@
       ],
       "activePeriods": [],
       "createdAt": "2026-09-02T17:15:34.031Z",
-      "updatedAt": "2026-09-02T17:28:14.579Z",
+      "updatedAt": "2026-09-02T17:54:39.284Z",
       "createdBy": "Editor locale"
     },
     {
