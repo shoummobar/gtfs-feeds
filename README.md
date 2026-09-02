@@ -41,6 +41,30 @@ The existing URLs will be retained when feeds are updated, allowing consuming pl
 
 All feeds are provided as standard GTFS ZIP archives and are intended for use by platforms and services supporting the [General Transit Feed Specification (GTFS)](https://gtfs.org/).
 
+## GTFS-RT Alerts
+
+Realtime service alerts are provided as individual GTFS-Realtime Protocol Buffer (`.pb`) feeds, with one feed available for each operator.
+
+| Operator                                     | GTFS-RT Alerts                                                                     |
+| -------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Autolinee Sabba                              | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/sabba/alerts.pb)      |
+| Automobilistica Perego                       | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/perego/alerts.pb)     |
+| Autonoleggi Bonomi                           | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/bonomi/alerts.pb)     |
+| Autoservizi Gelmi                            | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/gelmi/alerts.pb)      |
+| Autoservizi La Valle                         | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/lavalle/alerts.pb)    |
+| Autotrasporti Rainoldi & C.                  | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/rainoldi/alerts.pb)   |
+| CTB - Cooperativa Trasporti Bormio           | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/ctb/alerts.pb)        |
+| FNM Autoservizi Brescia                      | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/fnma_bs/alerts.pb)    |
+| Gianolini Servizi e Trasporti                | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/gianolini/alerts.pb)  |
+| LineeLecco                                   | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/lineelecco/alerts.pb) |
+| SAI - Società Autolinee Interprovinciali     | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/sai/alerts.pb)        |
+| SAV - Società Autoservizi Visinoni           | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/sav/alerts.pb)        |
+| STPS - Società Trasporti Pubblici di Sondrio | [alerts.pb](https://shoummobar.github.io/gtfs-feeds/realtime/stps/alerts.pb)       |
+
+Each feed contains the active service alerts for the corresponding operator and is generated directly by the console as a GTFS-Realtime Protocol Buffer feed.
+
+The corresponding `alerts.json` file is used as the readable shared source for managing and synchronizing alerts, while `alerts.pb` is the binary feed intended for realtime consumers. The code explicitly filters the alerts so that only enabled alerts are included in the generated protobuf feed.
+
 ---
 
 **Accurate · Consistent · Current · Clean · Reliable**
