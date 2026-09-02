@@ -2,7 +2,7 @@
   "version": 1,
   "agencyName": "",
   "lastEditedBy": "Console Avvisi GTFS-RT",
-  "lastEditedAt": "2026-09-02T19:29:04.564Z",
+  "lastEditedAt": "2026-09-02T19:31:10.322Z",
   "alerts": [
     {
       "id": "al_mtkcvsyd_ak9f12",
@@ -14,7 +14,7 @@
       },
       "description": {
         "it": "Si informa che a causa del crollo del ponte in località Sonico Rino provocato da avverse condizioni meteo, la linea LV056 è sospesa nel tratto tra Edolo e Sonico Rino.\n\nIl servizio rimane attivo esclusivamente nella tratta tra Malonno FN e Sonico Garda con i seguenti orari:\n\nPartenze da Malonno FN per Sonico Garda:\n06:50, 14:00, 18:15\n\nPartenze da Sonico Garda per Malonno FN:\n07:10, 14:20, 18:35",
-        "en": "Please be advised that due to the collapse of the bridge in Sonico Rino caused by severe weather conditions, Line LV056 is suspended between Edolo and Sonico Rino.\n\nService remains operational exclusively on the section between Malonno FN and Sonico Garda according to the following timetable:\n\nDepartures from Malonno FN to Sonico Garda:\n06:50, 14:00, 18:15\n\nDepartures from Sonico Garda to Malonno FN:\n07:10, 14:20, 18:35"
+        "en": "Passengers are kindly informed that due to the collapse of the bridge in Sonico Rino caused by severe weather conditions, Line LV056 is suspended between Edolo and Sonico Rino.\n\nService remains operational exclusively on the section between Malonno FN and Sonico Garda according to the following timetable:\n\nDepartures from Malonno FN to Sonico Garda:\n06:50, 14:00, 18:15\n\nDepartures from Sonico Garda to Malonno FN:\n07:10, 14:20, 18:35"
       },
       "url": {
         "it": "https://www.gelmi.com/gelmi/news.php?id=85"
@@ -37,7 +37,7 @@
       ],
       "activePeriods": [],
       "createdAt": "2026-09-02T17:15:34.031Z",
-      "updatedAt": "2026-09-02T18:00:23.345Z",
+      "updatedAt": "2026-09-02T19:31:08.568Z",
       "createdBy": "Editor locale"
     },
     {
