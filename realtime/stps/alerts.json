@@ -2,7 +2,7 @@
   "version": 1,
   "agencyName": "",
   "lastEditedBy": "Console Avvisi GTFS-RT",
-  "lastEditedAt": "2026-09-02T17:42:55.022Z",
+  "lastEditedAt": "2026-09-02T17:47:15.630Z",
   "alerts": [
     {
       "id": "al_mtkdtzvb_bm499b",
@@ -13,8 +13,8 @@
         "en": "Suspended stop pending administrative authorization"
       },
       "description": {
-        "it": "Si informa la gentile clientela che, in attesa dell'atto amministrativo per l'autorizzazione al servizio viaggiatori da parte dell'Agenzia TPL di Sondrio, la fermata è sospesa. Si prega di recarsi a quella immediatamente precedente/successiva. Per richiedere informazioni, consultare il link in allegato. traduci",
-        "en": "Passengers are kindly informed that this bus stop is currently suspended while awaiting the official administrative authorization from the Sondrio TPL Agency. Please use the immediately preceding or following stop. For further information, please visit the attached link."
+        "it": "Si informa la gentile clientela che, in attesa dell'atto amministrativo per l'autorizzazione al servizio viaggiatori da parte dell'Agenzia TPL di Sondrio, la fermata è sospesa. Si prega di recarsi a quella immediatamente precedente/successiva.",
+        "en": "Passengers are kindly informed that this bus stop is currently suspended while awaiting the official administrative authorization from the Sondrio TPL Agency. Please use the immediately preceding or following stop."
       },
       "url": {},
       "cause": "OTHER_CAUSE",
@@ -39,7 +39,7 @@
       ],
       "activePeriods": [],
       "createdAt": "2026-09-02T17:42:51.179Z",
-      "updatedAt": "2026-09-02T17:42:51.179Z",
+      "updatedAt": "2026-09-02T17:47:11.531Z",
       "createdBy": "Editor locale"
     }
   ]
