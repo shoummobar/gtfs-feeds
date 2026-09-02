@@ -1,14 +1,13 @@
 {
   "meta": {
-    "agencyName": "",
     "lastEditedBy": "",
-    "lastEditedAt": "2026-09-02T13:30:01.195Z"
+    "lastEditedAt": "2026-09-02T13:38:14.817Z"
   },
   "alerts": [
     {
       "id": "avviso-mtk4tndisi7h7",
       "templateKey": "stopMoved",
-      "enabled": true,
+      "enabled": false,
       "cause": "CONSTRUCTION",
       "effect": "STOP_MOVED",
       "severity": "WARNING",
@@ -44,7 +43,7 @@
         }
       ],
       "createdAt": "2026-09-02T13:28:43.158Z",
-      "updatedAt": "2026-09-02T13:29:39.818Z",
+      "updatedAt": "2026-09-02T13:38:12.921Z",
       "createdBy": ""
     }
   ]
