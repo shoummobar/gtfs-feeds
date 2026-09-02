@@ -2,7 +2,7 @@
   "version": 1,
   "agencyName": "",
   "lastEditedBy": "Console Avvisi GTFS-RT",
-  "lastEditedAt": "2026-09-02T18:06:19.032Z",
+  "lastEditedAt": "2026-09-02T18:07:22.805Z",
   "alerts": [
     {
       "id": "al_mtkcvsyd_ak9f12",
@@ -45,10 +45,12 @@
       "templateKey": "unserved_segment",
       "enabled": true,
       "header": {
-        "it": "Tratta sospesa"
+        "it": "Tratta sospesa",
+        "en": "Suspended section"
       },
       "description": {
-        "it": "Maggiori informazioni sul link sottostante"
+        "it": "Maggiori informazioni sul link sottostante",
+        "en": "For further details, see the link below"
       },
       "url": {
         "it": "https://www.gelmi.com/gelmi/news.php?id=85"
@@ -295,7 +297,7 @@
       ],
       "activePeriods": [],
       "createdAt": "2026-09-02T17:29:28.084Z",
-      "updatedAt": "2026-09-02T18:06:17.695Z",
+      "updatedAt": "2026-09-02T18:07:19.409Z",
       "createdBy": "Editor locale"
     }
   ]
