@@ -2,11 +2,11 @@
   "version": 1,
   "agencyName": "",
   "lastEditedBy": "Console Avvisi GTFS-RT",
-  "lastEditedAt": "2026-09-02T17:17:47.688Z",
+  "lastEditedAt": "2026-09-02T17:27:29.310Z",
   "alerts": [
     {
       "id": "al_mtkcvsyd_ak9f12",
-      "templateKey": "unserved_segment",
+      "templateKey": "modified_service",
       "enabled": true,
       "header": {
         "it": "Modifica servizio e sospensione tratta Edolo - Sonico Rino"
@@ -17,9 +17,9 @@
       "url": {},
       "cause": "OTHER_CAUSE",
       "causeDetail": {},
-      "effect": "NO_SERVICE",
+      "effect": "MODIFIED_SERVICE",
       "effectDetail": {},
-      "severity": "SEVERE",
+      "severity": "WARNING",
       "ttsHeader": {},
       "ttsDescription": {},
       "imageUrl": "",
@@ -161,7 +161,7 @@
       ],
       "activePeriods": [],
       "createdAt": "2026-09-02T17:15:34.031Z",
-      "updatedAt": "2026-09-02T17:16:16.190Z",
+      "updatedAt": "2026-09-02T17:27:09.298Z",
       "createdBy": "Editor locale"
     }
   ]
