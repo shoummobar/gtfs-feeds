@@ -22,8 +22,6 @@ The feeds are maintained with a focus on accuracy, consistency, data quality and
 | SAV - Società Autoservizi Visinoni           | [gtfs_sav.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_sav.zip)               |
 | STPS - Società Trasporti Pubblici di Sondrio | [gtfs_stps.zip](https://shoummobar.github.io/gtfs-feeds/gtfs_stps.zip)             |
 
-> Feed URLs are intended to remain stable. Updated versions of the feeds will be published at the same URLs whenever new data becomes available.
-
 ## Data Quality
 
 The GTFS feeds are based on the latest available operational data and are carefully processed with quality and consistency in mind.
