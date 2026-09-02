@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "agencyName": "",
+    "lastEditedBy": "Shoummo",
+    "lastEditedAt": "2026-09-02T12:02:07.292Z"
+  },
+  "alerts": [
+    {
+      "id": "avviso-mtk1es7rrlki8",
+      "enabled": true,
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "severity": "WARNING",
+      "activePeriods": [
+        {
+          "start": "",
+          "end": ""
+        }
+      ],
+      "header": {
+        "it": "Modifiche e sospensioni di servizio causa crollo ponte a Rino"
+      },
+      "description": {
+        "it": "si informa la gentile clientela che, fino a nuovo avviso, la linea LV056 Edolo - Sonico Garda - Malonno subisce modifiche e sospensioni di servizio a causa del crollo del ponte stradale in località Rino, inibente il traffico veicolare. Seguiranno aggiornamenti, per ulteriori informazioni consultare il link sottostante. Grazie per l'attenzione."
+      },
+      "url": {
+        "it": "https://www.gelmi.com/gelmi/docs/Orario-Garda-L341-ProvvisorioAgosto2026.pdf"
+      },
+      "ttsHeader": {},
+      "ttsDescription": {},
+      "causeDetail": {},
+      "effectDetail": {},
+      "imageUrl": "",
+      "imageMediaType": "",
+      "imageAlt": {},
+      "informedEntities": [
+        {
+          "type": "stop",
+          "stopId": "60051",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "60246",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64768",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "60127",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "61813",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64704",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64706",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64708",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64707",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64275",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64710",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64711",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64709",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64276",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "64277",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "61864",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "60128",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "61840",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "60263",
+          "routeId": "LV056"
+        },
+        {
+          "type": "stop",
+          "stopId": "60051",
+          "routeId": "LV056"
+        }
+      ],
+      "createdAt": "2026-09-02T11:53:10.743Z",
+      "updatedAt": "2026-09-02T12:02:01.840Z",
+      "createdBy": "Shoummo"
+    }
+  ]
+}
