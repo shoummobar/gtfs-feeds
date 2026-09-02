@@ -1,31 +1,28 @@
 {
   "meta": {
-    "lastEditedBy": "",
-    "lastEditedAt": "2026-09-02T13:38:14.817Z"
+    "agencyName": "",
+    "lastEditedBy": "Shoummo",
+    "lastEditedAt": "2026-09-02T13:54:57.831Z"
   },
   "alerts": [
     {
-      "id": "avviso-mtk4tndisi7h7",
-      "templateKey": "stopMoved",
-      "enabled": false,
-      "cause": "CONSTRUCTION",
-      "effect": "STOP_MOVED",
+      "id": "avviso-mtk5ptpm6mc7g",
+      "templateKey": "trip",
+      "enabled": true,
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
       "severity": "WARNING",
       "activePeriods": [
         {
-          "start": "",
-          "end": ""
-        },
-        {
-          "start": "",
-          "end": ""
+          "start": "2026-09-02T00:00",
+          "end": "2026-09-02T23:59"
         }
       ],
       "header": {
-        "it": "Fermata spostata"
+        "it": "Corsa soppressa"
       },
       "description": {
-        "it": "La fermata è temporaneamente spostata."
+        "it": "La corsa indicata non verrà effettuata."
       },
       "url": {},
       "ttsHeader": {},
@@ -37,13 +34,16 @@
       "imageAlt": {},
       "informedEntities": [
         {
-          "type": "stop",
-          "stopId": "85020",
-          "routeId": ""
+          "type": "trip",
+          "tripId": "LL001556",
+          "routeId": "",
+          "tripDirectionId": "",
+          "startDate": "",
+          "startTime": ""
         }
       ],
-      "createdAt": "2026-09-02T13:28:43.158Z",
-      "updatedAt": "2026-09-02T13:38:12.921Z",
+      "createdAt": "2026-09-02T13:53:44.362Z",
+      "updatedAt": "2026-09-02T13:54:54.654Z",
       "createdBy": ""
     }
   ]
