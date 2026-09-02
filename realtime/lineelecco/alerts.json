@@ -2,13 +2,13 @@
   "meta": {
     "agencyName": "",
     "lastEditedBy": "Shoummo",
-    "lastEditedAt": "2026-09-02T13:58:52.949Z"
+    "lastEditedAt": "2026-09-02T15:06:23.309Z"
   },
   "alerts": [
     {
       "id": "avviso-mtk5ptpm6mc7g",
       "templateKey": "trip",
-      "enabled": false,
+      "enabled": true,
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "severity": "WARNING",
@@ -43,7 +43,7 @@
         }
       ],
       "createdAt": "2026-09-02T13:53:44.362Z",
-      "updatedAt": "2026-09-02T13:58:28.259Z",
+      "updatedAt": "2026-09-02T15:06:21.733Z",
       "createdBy": ""
     }
   ]
