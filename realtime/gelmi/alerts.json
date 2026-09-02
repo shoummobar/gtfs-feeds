@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "agencyName": "",
+  "lastEditedBy": "Console Avvisi GTFS-RT",
+  "lastEditedAt": "2026-09-02T17:16:19.125Z",
+  "alerts": [
+    {
+      "id": "al_mtkcvsyd_ak9f12",
+      "templateKey": "unserved_segment",
+      "enabled": true,
+      "header": {
+        "it": "Modifica servizio e sospensione tratta Edolo - Sonico Rino"
+      },
+      "description": {
+        "it": "Si informa che a causa del crollo del ponte in località Sonico Rino provocato da avverse condizioni meteo, la linea LV056 è sospesa nel tratto tra Edolo e Sonico Rino.\n\nIl servizio rimane attivo esclusivamente nella tratta tra Malonno FS e Sonico Garda con i seguenti orari:\n\nPartenze da Malonno FS per Sonico Garda:\n06:50, 14:00, 18:15\n\nPartenze da Sonico Garda per Malonno FS:\n07:10, 14:20, 18:35"
+      },
+      "url": {},
+      "cause": "OTHER_CAUSE",
+      "causeDetail": {},
+      "effect": "NO_SERVICE",
+      "effectDetail": {},
+      "severity": "SEVERE",
+      "ttsHeader": {},
+      "ttsDescription": {},
+      "imageUrl": "",
+      "imageMediaType": "",
+      "imageAlt": {},
+      "informedEntities": [
+        {
+          "type": "stop",
+          "stopId": "60051",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "60246",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64768",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "60127",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "61813",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64704",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64706",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64707",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64708",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64275",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64710",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "60263",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "60051",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "61840",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "60128",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "61864",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64705",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64277",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64276",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64709",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64275",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64711",
+          "routeId": "LV056",
+          "directionId": 1
+        }
+      ],
+      "activePeriods": [],
+      "createdAt": "2026-09-02T17:15:34.031Z",
+      "updatedAt": "2026-09-02T17:16:16.190Z",
+      "createdBy": "Editor locale"
+    }
+  ]
+}
