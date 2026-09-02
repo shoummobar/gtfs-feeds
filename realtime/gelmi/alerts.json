@@ -2,7 +2,7 @@
   "version": 1,
   "agencyName": "",
   "lastEditedBy": "Console Avvisi GTFS-RT",
-  "lastEditedAt": "2026-09-02T17:27:29.310Z",
+  "lastEditedAt": "2026-09-02T17:30:15.695Z",
   "alerts": [
     {
       "id": "al_mtkcvsyd_ak9f12",
@@ -20,6 +20,38 @@
       "effect": "MODIFIED_SERVICE",
       "effectDetail": {},
       "severity": "WARNING",
+      "ttsHeader": {},
+      "ttsDescription": {},
+      "imageUrl": "",
+      "imageMediaType": "",
+      "imageAlt": {},
+      "informedEntities": [
+        {
+          "type": "route",
+          "routeId": "LV056"
+        }
+      ],
+      "activePeriods": [],
+      "createdAt": "2026-09-02T17:15:34.031Z",
+      "updatedAt": "2026-09-02T17:28:14.579Z",
+      "createdBy": "Editor locale"
+    },
+    {
+      "id": "al_mtkdex8k_4v2j13",
+      "templateKey": "unserved_segment",
+      "enabled": true,
+      "header": {
+        "it": "Tratto non servito"
+      },
+      "description": {
+        "it": "Un tratto del percorso normale non viene effettuato."
+      },
+      "url": {},
+      "cause": "OTHER_CAUSE",
+      "causeDetail": {},
+      "effect": "NO_SERVICE",
+      "effectDetail": {},
+      "severity": "SEVERE",
       "ttsHeader": {},
       "ttsDescription": {},
       "imageUrl": "",
@@ -64,13 +96,13 @@
         },
         {
           "type": "stop",
-          "stopId": "64706",
+          "stopId": "64707",
           "routeId": "LV056",
           "directionId": 0
         },
         {
           "type": "stop",
-          "stopId": "64707",
+          "stopId": "64706",
           "routeId": "LV056",
           "directionId": 0
         },
@@ -94,74 +126,50 @@
         },
         {
           "type": "stop",
-          "stopId": "60263",
+          "stopId": "64809",
           "routeId": "LV056",
           "directionId": 1
         },
         {
           "type": "stop",
-          "stopId": "60051",
+          "stopId": "64703",
           "routeId": "LV056",
           "directionId": 1
         },
         {
           "type": "stop",
-          "stopId": "61840",
+          "stopId": "64701",
           "routeId": "LV056",
           "directionId": 1
         },
         {
           "type": "stop",
-          "stopId": "60128",
+          "stopId": "64699",
           "routeId": "LV056",
           "directionId": 1
         },
         {
           "type": "stop",
-          "stopId": "61864",
+          "stopId": "64274",
           "routeId": "LV056",
           "directionId": 1
         },
         {
           "type": "stop",
-          "stopId": "64705",
+          "stopId": "64273",
           "routeId": "LV056",
           "directionId": 1
         },
         {
           "type": "stop",
-          "stopId": "64277",
-          "routeId": "LV056",
-          "directionId": 1
-        },
-        {
-          "type": "stop",
-          "stopId": "64276",
-          "routeId": "LV056",
-          "directionId": 1
-        },
-        {
-          "type": "stop",
-          "stopId": "64709",
-          "routeId": "LV056",
-          "directionId": 1
-        },
-        {
-          "type": "stop",
-          "stopId": "64275",
-          "routeId": "LV056",
-          "directionId": 1
-        },
-        {
-          "type": "stop",
-          "stopId": "64711",
+          "stopId": "64715",
           "routeId": "LV056",
           "directionId": 1
         }
       ],
       "activePeriods": [],
-      "createdAt": "2026-09-02T17:15:34.031Z",
-      "updatedAt": "2026-09-02T17:27:09.298Z",
+      "createdAt": "2026-09-02T17:29:28.084Z",
+      "updatedAt": "2026-09-02T17:30:06.156Z",
       "createdBy": "Editor locale"
     }
   ]
