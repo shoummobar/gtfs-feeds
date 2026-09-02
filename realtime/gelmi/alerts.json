@@ -2,7 +2,7 @@
   "version": 1,
   "agencyName": "",
   "lastEditedBy": "Console Avvisi GTFS-RT",
-  "lastEditedAt": "2026-09-02T17:35:27.353Z",
+  "lastEditedAt": "2026-09-02T17:38:49.510Z",
   "alerts": [
     {
       "id": "al_mtkcvsyd_ak9f12",
@@ -44,9 +44,11 @@
         "it": "Tratta sospesa"
       },
       "description": {
-        "it": "Stai guardando una fermata temporaneamente non servita dalla linea LV056"
+        "it": "Maggiori informazioni sul link sottostante"
       },
-      "url": {},
+      "url": {
+        "it": "https://www.gelmi.com/gelmi/news.php?id=85"
+      },
       "cause": "OTHER_CAUSE",
       "causeDetail": {},
       "effect": "NO_SERVICE",
@@ -169,7 +171,7 @@
       ],
       "activePeriods": [],
       "createdAt": "2026-09-02T17:29:28.084Z",
-      "updatedAt": "2026-09-02T17:35:22.518Z",
+      "updatedAt": "2026-09-02T17:38:48.548Z",
       "createdBy": "Editor locale"
     }
   ]
