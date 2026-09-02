@@ -2,7 +2,7 @@
   "version": 1,
   "agencyName": "",
   "lastEditedBy": "Console Avvisi GTFS-RT",
-  "lastEditedAt": "2026-09-02T18:00:26.116Z",
+  "lastEditedAt": "2026-09-02T18:06:19.032Z",
   "alerts": [
     {
       "id": "al_mtkcvsyd_ak9f12",
@@ -171,11 +171,131 @@
           "stopId": "64715",
           "routeId": "LV056",
           "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "60051",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "60246",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64768",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "60127",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "61813",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64704",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64707",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64706",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64708",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64275",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64710",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64712",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64714",
+          "routeId": "LV056",
+          "directionId": 0
+        },
+        {
+          "type": "stop",
+          "stopId": "64713",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64711",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64275",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64709",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64276",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64277",
+          "routeId": "LV056",
+          "directionId": 1
+        },
+        {
+          "type": "stop",
+          "stopId": "64715",
+          "routeId": "LV056",
+          "directionId": 1
         }
       ],
       "activePeriods": [],
       "createdAt": "2026-09-02T17:29:28.084Z",
-      "updatedAt": "2026-09-02T17:38:48.548Z",
+      "updatedAt": "2026-09-02T18:06:17.695Z",
       "createdBy": "Editor locale"
     }
   ]
