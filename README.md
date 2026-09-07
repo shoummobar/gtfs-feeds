@@ -64,7 +64,8 @@ Realtime service alerts are provided as individual GTFS-Realtime Protocol Buffer
 Each feed contains the active service alerts for the corresponding operator and is generated directly by the console as a GTFS-Realtime Protocol Buffer feed.
 
 The corresponding `alerts.json` file is used as the readable shared source for managing and synchronizing alerts, while `alerts.pb` is the binary feed intended for realtime consumers. The code explicitly filters the alerts so that only enabled alerts are included in the generated protobuf feed.
-
+> Alerts are not yet available.
+> 
 ---
 
 **Accurate · Consistent · Current · Clean · Reliable**
