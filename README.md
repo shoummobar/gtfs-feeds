@@ -38,6 +38,4 @@ Feeds are updated whenever new or revised operational data becomes available.
 
 The existing URLs will be retained when feeds are updated, allowing consuming platforms to continuously access the latest available version without requiring changes to their feed configuration.
 
-## GTFS
-
 All feeds are provided as standard GTFS ZIP archives and are intended for use by platforms and services supporting the [General Transit Feed Specification (GTFS)](https://gtfs.org/).
